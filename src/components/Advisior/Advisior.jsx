@@ -28,11 +28,11 @@ const Advisior = () => {
 
   useEffect(() => {
     const endIndex =
-      startIndex + 5 < membersArr.length ? startIndex + 5 : membersArr.length;
+      startIndex + 3 < membersArr.length ? startIndex + 3 : membersArr.length;
     setVisibleMembers([
       ...membersArr.slice(startIndex, endIndex),
       ...(endIndex === membersArr.length
-        ? membersArr.slice(0, 5 - (membersArr.length - startIndex))
+        ? membersArr.slice(0, 3 - (membersArr.length - startIndex))
         : []),
     ]);
   }, [startIndex, membersArr]);
@@ -41,7 +41,8 @@ const Advisior = () => {
     <div className="agenda section" id="agenda">
       <div className="agenda-content container">
         <div className="section-header">
-          <div className="title">ADVISIORS</div>
+          <div className="sub-title">ADVISIORS</div>
+          <div className="title">Pusle.exe 2K23</div>
         </div>
       <div className="members-container">
           <div className="members-wrapper">
