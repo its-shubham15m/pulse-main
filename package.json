@@ -22,7 +22,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "hugo -t mytheme",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
