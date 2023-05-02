@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pulse-main/static/css/main.c5eb8c57.css",
-    "main.js": "/pulse-main/static/js/main.e8c717a7.js",
+    "main.css": "/pulse-main/static/css/main.971aa543.css",
+    "main.js": "/pulse-main/static/js/main.8093c04e.js",
     "static/media/Intro-pulse.mp4": "/pulse-main/static/media/Intro-pulse.23cccc2f01acf4d8aec8.mp4",
     "static/media/Kallol Mondal.jpg": "/pulse-main/static/media/Kallol Mondal.fec2723fe47a2e56c900.jpg",
     "static/media/pulse-loader-2.gif": "/pulse-main/static/media/pulse-loader-2.0e3ea4a209753310a611.gif",
@@ -22,15 +22,18 @@
     "static/media/dept06.JPG": "/pulse-main/static/media/dept06.888f790bc3cb14568b67.JPG",
     "static/media/rotaract_mckvie.jpg": "/pulse-main/static/media/rotaract_mckvie.bd3935c12b867a74ecdf.jpg",
     "static/media/Deep Chakraborty.jpg": "/pulse-main/static/media/Deep Chakraborty.d8cd0ce46dd88b4d19de.jpg",
+    "static/media/Anurag Banerjee (Medium).jpg": "/pulse-main/static/media/Anurag Banerjee (Medium).84cb74d9fe7ce61644b8.jpg",
     "static/media/Sanjana Shaw.jpg": "/pulse-main/static/media/Sanjana Shaw.f69a20b4eaea017f1f27.jpg",
     "static/media/Shreyan Chowdhury.jpg": "/pulse-main/static/media/Shreyan Chowdhury.329662fadb33314a75b6.jpg",
     "static/media/Sayantan Karmakar.jpg": "/pulse-main/static/media/Sayantan Karmakar.050c45eef2912e6fc1df.jpg",
     "static/media/Sourav Ghosh.jpg": "/pulse-main/static/media/Sourav Ghosh.fa4b509aa4cbd2d3bc3f.jpg",
     "static/media/Riya Karmakar.jpg": "/pulse-main/static/media/Riya Karmakar.a2faaa828fc672f17088.jpg",
+    "static/media/Saikat Dey.jpg": "/pulse-main/static/media/Saikat Dey.0aad3519839a37405371.jpg",
     "static/media/Chayan Gupta.jpg": "/pulse-main/static/media/Chayan Gupta.f03ea3a9761ebe297075.jpg",
     "static/media/pulse-logo-png1.2.png": "/pulse-main/static/media/pulse-logo-png1.2.87dd02ddaafef1be039b.png",
     "static/media/quiz.png": "/pulse-main/static/media/quiz.9d4eb5a5cb5adc9bdf2f.png",
     "static/media/Ahelee Mukherjee.jpg": "/pulse-main/static/media/Ahelee Mukherjee.ce27d4d8ab1348d2a1c4.jpg",
+    "static/media/Anuska Kar.jpg": "/pulse-main/static/media/Anuska Kar.5f29e2111b5f4ffc9527.jpg",
     "static/media/iic_mckvie.jpg": "/pulse-main/static/media/iic_mckvie.e7c8f5ea988fc6612352.jpg",
     "static/media/hand-gesture.png": "/pulse-main/static/media/hand-gesture.a1feefa6912b0da92d6c.png",
     "static/media/boy.png": "/pulse-main/static/media/boy.89e8e6fb50ad238aee91.png",
@@ -42,11 +45,11 @@
     "static/media/iic_hrd.jpg": "/pulse-main/static/media/iic_hrd.0c188a2603ff1880bac8.jpg",
     "static/media/address.png": "/pulse-main/static/media/address.911b6cc2e92f54c495ec.png",
     "index.html": "/pulse-main/index.html",
-    "main.c5eb8c57.css.map": "/pulse-main/static/css/main.c5eb8c57.css.map",
-    "main.e8c717a7.js.map": "/pulse-main/static/js/main.e8c717a7.js.map"
+    "main.971aa543.css.map": "/pulse-main/static/css/main.971aa543.css.map",
+    "main.8093c04e.js.map": "/pulse-main/static/js/main.8093c04e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5eb8c57.css",
-    "static/js/main.e8c717a7.js"
+    "static/css/main.971aa543.css",
+    "static/js/main.8093c04e.js"
   ]
 }
