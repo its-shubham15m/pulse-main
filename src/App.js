@@ -14,6 +14,7 @@ import Loader from "./components/Loader/Loader";
 import Department from "./components/Department/Department";
 import Members from "./components/Members/Members";
 import Sponsor from "./components/Sponsor/Sponsor"
+import Advisior from "./components/Advisior/Advisior"
 
 const App = () => {
     return (
@@ -28,6 +29,7 @@ const App = () => {
             <Prizes></Prizes>
             <Agenda></Agenda>
             <Members></Members>
+            <Advisior></Advisior>
             <Contact></Contact>
             <Cta></Cta>
             <Sponsor></Sponsor>
